@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120.266" height="64.133" viewBox="0 0 120.266 64.133">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.437" y1="0.219" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f9f0ff"/>
+      <stop offset="1" stop-color="#e2f1ff"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <path id="background" d="M0-160.214l120.225-10.481.04-53.652L0-210.471Z" transform="translate(0 2156.347)" opacity="0.47" fill="url(#linear-gradient)"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_4" data-name="Mask Group 4" transform="translate(0 -1932)" clip-path="url(#clip-path)">
+    <g id="partner3" transform="translate(0 1944.612)">
+      <path id="Path_694" data-name="Path 694" d="M16.967,8.843A4.257,4.257,0,0,1,21.224,13.1V30.066H4.257A4.257,4.257,0,0,1,0,25.809V21.059A4.257,4.257,0,0,1,4.257,16.8H8.843v6.743a1.216,1.216,0,0,0,1.216,1.216H12.38v-9.4a1.217,1.217,0,0,0-1.216-1.216H.3V8.843ZM37.141,24.761V0h8.843V30.066H29.018a4.257,4.257,0,0,1-4.257-4.257V13.1a4.257,4.257,0,0,1,4.257-4.257H33.6v14.7a1.216,1.216,0,0,0,1.216,1.216Zm24.761,0V8.843h8.844V34.651a4.257,4.257,0,0,1-4.257,4.257H49.825V32.719H61.9V30.066H53.778a4.257,4.257,0,0,1-4.257-4.257V8.843h8.843v14.7a1.216,1.216,0,0,0,1.216,1.216ZM91.248,8.843A4.257,4.257,0,0,1,95.505,13.1v4.751a4.257,4.257,0,0,1-4.257,4.257H86.662V15.365a1.216,1.216,0,0,0-1.216-1.216H83.125v9.4a1.216,1.216,0,0,0,1.216,1.216H95.2v5.306H78.539a4.257,4.257,0,0,1-4.257-4.257V8.843Zm24.761,0a4.257,4.257,0,0,1,4.257,4.257V30.066h-8.843v-14.7a1.22,1.22,0,0,0-1.216-1.216h-2.321V30.066H99.042V8.843Z" fill="#32aa52"/>
+    </g>
+  </g>
+</svg>
